@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles/font.css">
+    <link rel="stylesheet" href="./styles/style_pagina_preguntas.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@800&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <title>Test de Personalidad de Halloween</title>
+</head>
+<body class="body-preguntas">
+    <header>
+        <h1 id="preguntaNumero">Preguntas de Halloween</h1> <!-- Cambiado para que incluya el número de pregunta -->
+    </header>
+    <div>
+        <h2 id="preguntaTexto"></h2> <!-- Aquí se mostrará la pregunta -->
+    </div>
+    <div class="container">
+        <ul id="questionList"></ul> <!-- Lista de respuestas -->
+    </div>
+    <div class="button">
+        <button id="nextButton">SIGUIENTE</button>
+    </div>
+    <!-- Modal personalizado -->
+    <div id="miModal" class="modal">
+        <div class="modal-contenido">
+            <span class="cerrar" onclick="cerrarModal()">&times;</span>
+            <p id="mensajeModal"></p>
+            <img src="./img/calavera_modal.png" alt="calavera_modal" class="calavera_modal_img" />
+        </div>
+    </div>
+    <script src="./js/index_preguntas.js"></script>
+</body>
+</html>

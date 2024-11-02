@@ -1,0 +1,137 @@
+[
+    {
+        "text": "¿Cuál es tu tipo de música favorita?",
+        "respuestas": [
+            {"value": "fantasma", "text": "Música suave y melancólica"},
+            {"value": "vampiro", "text": "Música clásica"},
+            {"value": "zombie", "text": "Rock pesado"},
+            {"value": "hombreLobo", "text": "Música enérgica y movida"}
+        ]
+    },
+    {
+        "text": "¿Cuál es tu actividad favorita en Halloween?",
+        "respuestas": [
+            {"value": "bruja", "text": "Hacer trucos o travesuras"},
+            {"value": "cazadorDeFantasmas", "text": "Ir a fiestas de disfraces"},
+            {"value": "momia", "text": "Contar historias de miedo"},
+            {"value": "zombie", "text": "Salir a pedir dulces"}
+        ]
+    },
+    {
+        "text": "¿Qué película prefieres ver en Halloween?",
+        "respuestas": [
+            {"value": "vampiro", "text": "Un clásico de terror"},
+            {"value": "fantasma", "text": "Una película de suspenso"},
+            {"value": "zombie", "text": "Una película de acción"},
+            {"value": "hombreLobo", "text": "Una comedia de horror"}
+        ]
+    },
+    {
+        "text": "¿Cuál es tu comida favorita para Halloween?",
+        "respuestas": [
+            {"value": "bruja", "text": "Galletas con forma de calabaza"},
+            {"value": "cazadorDeFantasmas", "text": "Dulces variados"},
+            {"value": "momia", "text": "Algo antiguo y tradicional"},
+            {"value": "zombie", "text": "Comida rápida y energética"}
+        ]
+    },
+    {
+        "text": "¿Cuál es tu color favorito en Halloween?",
+        "respuestas": [
+            {"value": "vampiro", "text": "Rojo oscuro"},
+            {"value": "fantasma", "text": "Blanco"},
+            {"value": "hombreLobo", "text": "Negro"},
+            {"value": "zombie", "text": "Verde"}
+        ]
+    },
+    {
+        "text": "¿Qué tipo de disfraz te gustaría llevar?",
+        "respuestas": [
+            {"value": "bruja", "text": "Algo misterioso y mágico"},
+            {"value": "cazadorDeFantasmas", "text": "Un héroe valiente"},
+            {"value": "momia", "text": "Algo antiguo y enigmático"},
+            {"value": "zombie", "text": "Algo espeluznante"}
+        ]
+    },
+    {
+        "text": "¿Cuál es tu actividad preferida en una fiesta de Halloween?",
+        "respuestas": [
+            {"value": "fantasma", "text": "Contar historias de terror"},
+            {"value": "vampiro", "text": "Bailar toda la noche"},
+            {"value": "zombie", "text": "Comer dulces"},
+            {"value": "hombreLobo", "text": "Jugar a juegos de miedo"}
+        ]
+    },
+    {
+        "text": "¿Qué decoración prefieres?",
+        "respuestas": [
+            {"value": "bruja", "text": "Telarañas y calaveras"},
+            {"value": "cazadorDeFantasmas", "text": "Calabazas iluminadas"},
+            {"value": "momia", "text": "Objetos antiguos y misteriosos"},
+            {"value": "zombie", "text": "Decoraciones espeluznantes"}
+        ]
+    },
+    {
+        "text": "¿Cómo te sientes en la oscuridad?",
+        "respuestas": [
+            {"value": "fantasma", "text": "Me gusta, me siento en casa"},
+            {"value": "vampiro", "text": "Prefiero la luz"},
+            {"value": "zombie", "text": "No me importa"},
+            {"value": "hombreLobo", "text": "Me siento enérgico"}
+        ]
+    },
+    {
+        "text": "¿Qué animal prefieres?",
+        "respuestas": [
+            {"value": "bruja", "text": "Un gato negro"},
+            {"value": "cazadorDeFantasmas", "text": "Un perro valiente"},
+            {"value": "momia", "text": "Un búho sabio"},
+            {"value": "zombie", "text": "Una araña"}
+        ]
+    },
+    {
+        "text": "¿Cuál es tu superpoder deseado?",
+        "respuestas": [
+            {"value": "fantasma", "text": "Invisible"},
+            {"value": "vampiro", "text": "Volar"},
+            {"value": "zombie", "text": "Super fuerza"},
+            {"value": "hombreLobo", "text": "Transformación"}
+        ]
+    },
+    {
+        "text": "¿Qué tipo de música te gustaría escuchar en Halloween?",
+        "respuestas": [
+            {"value": "bruja", "text": "Sonidos misteriosos"},
+            {"value": "cazadorDeFantasmas", "text": "Rock clásico"},
+            {"value": "momia", "text": "Música antigua"},
+            {"value": "zombie", "text": "Ruidos espeluznantes"}
+        ]
+    },
+    {
+        "text": "¿Cuál es tu lugar favorito para pasar Halloween?",
+        "respuestas": [
+            {"value": "fantasma", "text": "Una casa antigua"},
+            {"value": "vampiro", "text": "Un castillo"},
+            {"value": "zombie", "text": "Un bosque oscuro"},
+            {"value": "hombreLobo", "text": "Una fiesta"}
+        ]
+    },
+    {
+        "text": "¿Cómo prefieres pasar la noche de Halloween?",
+        "respuestas": [
+            {"value": "bruja", "text": "Con amigos haciendo trucos"},
+            {"value": "cazadorDeFantasmas", "text": "Explorando lugares abandonados"},
+            {"value": "momia", "text": "Leyendo libros de terror"},
+            {"value": "zombie", "text": "Mirando películas de horror"}
+        ]
+    },
+    {
+        "text": "¿Cuál es tu bebida favorita para Halloween?",
+        "respuestas": [
+            {"value": "fantasma", "text": "Un cóctel espeluznante"},
+            {"value": "vampiro", "text": "Sangre de vampiro (bebida roja)"},
+            {"value": "zombie", "text": "Agua fresca"},
+            {"value": "hombreLobo", "text": "Cerveza"}
+        ]
+    }
+]

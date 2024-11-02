@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'H1_PAGINA_PRINICIPAL';
+    src: url('fonts/DoubleBass-Bold-trial.ttf') format('truetype');
+}
+
+.title{
+    font-family: 'H1_PAGINA_PRINICIPAL', sans-serif;
+}
+
+.subtitle{
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.body-preguntas, .body-personajes{
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+}

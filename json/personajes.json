@@ -1,0 +1,37 @@
+{
+    "fantasma": {
+        "nombre": "Fantasma",
+        "text": "¡Eres un Fantasma! Te gusta mantener un perfil bajo y observar a los demás desde la sombra.",
+        "imagen": "fantasma.png"
+    },
+    "vampiro": {
+        "nombre": "Vampiro",
+        "text": "¡Eres un Vampiro! Elegante y misterioso, siempre encuentras la forma de destacar.",
+        "imagen": "vampiro.png"
+    },
+    "zombie": {
+        "nombre": "Zombie",
+        "text": "¡Eres un Zombie! Persistente y decidido, nada puede detenerte.",
+        "imagen": "zombie.png"
+    },
+    "hombreLobo": {
+        "nombre": "Hombre Lobo",
+        "text": "¡Eres un Hombre Lobo! Salvaje y enérgico, nadie puede seguirte el ritmo.",
+        "imagen": "hombre_lobo.png"
+    },
+    "bruja": {
+        "nombre": "Bruja",
+        "text": "¡Eres una Bruja! Astuta y llena de misterio, siempre tienes un truco bajo la manga.",
+        "imagen": "bruja.png"
+    },
+    "cazadorDeFantasmas": {
+        "nombre": "Cazador de Fantasmas",
+        "text": "¡Eres un Cazador de Fantasmas! Valiente y curioso, no hay rincón oscuro que te detenga.",
+        "imagen": "cazador_fantasma.png"
+    },
+    "momia": {
+        "nombre": "Momia",
+        "text": "¡Eres una Momia! Antiguo y enigmático, eres una figura llena de historia.",
+        "imagen": "momia.png"
+    }
+}
